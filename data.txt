@@ -1,13 +1,5 @@
 info: data
 start
-Task0
-Sub Task0
-work
-<<<<<<< HEAD
+work:
+task 1
 end
-=======
-end
-start: 2
-work 2
-end: 2 
->>>>>>> br_FIX_03
